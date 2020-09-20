@@ -1,5 +1,6 @@
 ## Netflix-replica
-A little info about your project and/ or overview that explains **what** the project is about.
+-This project is a replica of the netflix home page using HTML and CSS.
+- This repository is still in development uptill now
 
 ## Screenshots
 ![Capture](https://user-images.githubusercontent.com/47426594/93668314-43ac3e00-faa9-11ea-9347-9852a2dd37fc.PNG)
